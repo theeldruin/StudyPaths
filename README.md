@@ -1,8 +1,12 @@
 # Caminhos de Estudos - Study Paths
 
-Aqui serão organizados links de cursos, vídeos, textos, etc.... que terão como objetivo te auxiliar a estudar a área de cyber segurança.
+> Aqui serão organizados links de cursos, vídeos, textos, etc.... que terão como objetivo te auxiliar a estudar a área de cyber segurança.
 Contribuições serão sempre aceitas.
 Divirtam-se ....
+
+> Here links will be organized for courses, videos, texts, etc ... which will aim to help you study the cyber security area.
+Contributions will always be accepted.
+Have fun ....
 
 ## Iniciante - Begginer
 
