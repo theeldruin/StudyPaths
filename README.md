@@ -56,6 +56,7 @@ Have fun ....
 
 > ### English
 > #### Free
+>> PostSwigger - Web Security: https://portswigger.net/web-security/all-materials
 > #### Paid
 >> TryHackMe - Cyber Defense Path: https://tryhackme.com/path/outline/blueteam
 >> 
