@@ -22,6 +22,7 @@ Divirtam-se ....
 
 > ### Portugês
 > #### Grátis
+>> Minicurso - Pentest no mundo real: https://www.youtube.com/playlist?list=PLgPnpEa6XZFq7c_LhVQF2gG6tizysJcro
 > #### Pagos
 
 > ### English
@@ -37,7 +38,7 @@ Divirtam-se ....
 > #### Free
 > #### Paid
 >> Offensive Security - Penetration Testing with Kali Linux (PEN-200 OSCP): https://www.offensive-security.com/pwk-oscp/
-
+>>
 >> Offensive Security - Wireless Attacks (PEN-210 OSWP): https://www.offensive-security.com/wifu-oswp/
 
 ## Avançado - Advanced
