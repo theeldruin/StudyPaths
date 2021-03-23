@@ -21,6 +21,29 @@ Have fun ....
 
 > ### English
 > #### Free
+>> TryHackMe - Linux Fundamentals: https://tryhackme.com/module/linux-fundamentals
+>> 
+>> TryHackMe - Module Intro to Networking: https://tryhackme.com/module/intro-to-networking
+>> 
+>> TryHackMe - Module Web Hacking 1: https://tryhackme.com/module/web-hacking-1
+>> 
+>> TryHackMe - Module Cryptography: https://tryhackme.com/module/cryptography
+>> 
+>> TryHackMe - Module Hacking Windows 1: https://tryhackme.com/module/hacking-windows-1
+>> 
+>> TryHackMe - Module Privilege Escalation and Shells: https://tryhackme.com/module/privilege-escalation-and-shells
+>> 
+>> TryHackMe - Module Basic Computer Exploitation: https://tryhackme.com/module/basic-computer-exploitation
+>> 
+>> TryHackMe - Module Threat and Vulnerability Management: https://tryhackme.com/module/threat-and-vulnerability-management
+>> 
+>> TryHackMe - Module Security Operations and Monitoring: https://tryhackme.com/module/security-operations-and-monitoring
+>> 
+>> TryHackMe - Module Threat Emulation: https://tryhackme.com/module/threat-emulation
+>> 
+>> TryHackMe - Module Incident Response and Forensics: https://tryhackme.com/module/incident-response-and-forensics
+>> 
+>> TryHackMe - Module Malware Analusis: https://tryhackme.com/module/malware-analysis
 > #### Paid
 >> TryHackMe - Complete Begginer Path: https://tryhackme.com/path/outline/beginner
 
