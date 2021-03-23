@@ -16,6 +16,8 @@ Have fun ....
 >> Solyd - Introdução ao Hacking e Pentest: https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/
 >> 
 >> Udemy - Fundamentos de Ethical Hacking: https://www.udemy.com/course/fundamentos-de-ethical-hacking/
+>> 
+>> Desec - Novo Pentest Profissional: https://desecsecurity.com/curso/novo-pentest-profissional
 
 > ### English
 > #### Free
