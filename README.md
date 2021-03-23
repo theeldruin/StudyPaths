@@ -21,7 +21,7 @@ Have fun ....
 
 > ### English
 > #### Free
->> TryHackMe - Linux Fundamentals: https://tryhackme.com/module/linux-fundamentals
+>> TryHackMe - Module Linux Fundamentals: https://tryhackme.com/module/linux-fundamentals
 >> 
 >> TryHackMe - Module Intro to Networking: https://tryhackme.com/module/intro-to-networking
 >> 
