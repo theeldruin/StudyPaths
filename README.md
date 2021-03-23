@@ -9,14 +9,14 @@ Divirtam-se ....
 > ### Portugês
 > #### Grátis
 > #### Pagos
->> Solyd - Introdução ao Hacking e Pentest (PAGO): https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/
+>> Solyd - Introdução ao Hacking e Pentest: https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/
 >> 
->> Udemy - Fundamentos de Ethical Hacking (PAGO): https://www.udemy.com/course/fundamentos-de-ethical-hacking/
+>> Udemy - Fundamentos de Ethical Hacking: https://www.udemy.com/course/fundamentos-de-ethical-hacking/
 
 > ### English
 > #### Free
 > #### Paid
->> TryHackMe - Complete Begginer Path (PAID): https://tryhackme.com/path/outline/beginner
+>> TryHackMe - Complete Begginer Path: https://tryhackme.com/path/outline/beginner
 
 ## Basico - Basic
 
