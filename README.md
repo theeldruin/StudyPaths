@@ -9,7 +9,8 @@ Divirtam-se ....
 > ### Portugês
 > #### Grátis
 > #### Pagos
->> Solyd - Introdução ao Hacking e Pentest (PAGO): https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/ 
+>> Solyd - Introdução ao Hacking e Pentest (PAGO): https://solyd.com.br/treinamentos/introducao-ao-hacking-e-pentest/
+>> 
 >> Udemy - Fundamentos de Ethical Hacking (PAGO): https://www.udemy.com/course/fundamentos-de-ethical-hacking/
 
 > ### English
@@ -36,6 +37,7 @@ Divirtam-se ....
 > #### Free
 > #### Paid
 >> Offensive Security - Penetration Testing with Kali Linux (PEN-200 OSCP): https://www.offensive-security.com/pwk-oscp/
+
 >> Offensive Security - Wireless Attacks (PEN-210 OSWP): https://www.offensive-security.com/wifu-oswp/
 
 ## Avançado - Advanced
