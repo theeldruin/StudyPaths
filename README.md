@@ -32,6 +32,12 @@ Have fun ....
 > ### English
 > #### Free
 > #### Paid
+>> TryHackMe - Cyber Defense Path: https://tryhackme.com/path/outline/blueteam
+>> 
+>> TryHackMe - Offensive Path: https://tryhackme.com/path/outline/pentesting
+>> 
+>> TryHackMe - Web Fundamentals Path: https://tryhackme.com/path/outline/web
+>> 
 
 ## Intermediário - Intermediate
 > ### Portugês
@@ -44,6 +50,8 @@ Have fun ....
 >> Offensive Security - Penetration Testing with Kali Linux (PEN-200 OSCP): https://www.offensive-security.com/pwk-oscp/
 >>
 >> Offensive Security - Wireless Attacks (PEN-210 OSWP): https://www.offensive-security.com/wifu-oswp/
+>> 
+>> TryHackMe - CompTIA PenTest+ Path: https://tryhackme.com/path/outline/pentestplus
 
 ## Avançado - Advanced
 > ### Portugês
