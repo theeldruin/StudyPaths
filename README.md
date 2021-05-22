@@ -43,7 +43,7 @@ Have fun ....
 >> 
 >> TryHackMe - Module Incident Response and Forensics: https://tryhackme.com/module/incident-response-and-forensics
 >> 
->> TryHackMe - Module Malware Analusis: https://tryhackme.com/module/malware-analysis
+>> TryHackMe - Module Malware Analysis: https://tryhackme.com/module/malware-analysis
 > #### Paid
 >> TryHackMe - Complete Begginer Path: https://tryhackme.com/path/outline/beginner
 
